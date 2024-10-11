@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">miPractica</string>
+    <string name="btnSalir">Salir</string>
+    <string name="btnSiguiente">Si</string>
+    <string name="lblRating">¿Quieres valorar este equipo?</string>
+    <string name="lblTuValoracion">Tu valoración es: </string>
+    <string name="btnVolver">Volver</string>
+    <string name="hintMostrarValor">Que numero de estrellas le das</string>
+
+    <string-array name="spLista">
+        <item>Sevilla</item>
+        <item>Betis</item>
+        <item>Madrid</item>
+        <item>Barcelona</item>
+    </string-array>
+</resources>
